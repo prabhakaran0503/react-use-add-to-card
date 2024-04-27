@@ -1,0 +1,68 @@
+{
+    "cardproduct":[
+
+        {
+            "id":1,
+            "img":"../img/mobile2.jpeg",
+            "name":"i phone",
+            "price": "$ 1000",
+            "btn":"Add to card"
+        },
+        {
+            "id":2,
+            "img":"../img/mobile1.webp",
+            "name":"Redmi 11 pro",
+            "price":"$ 10000",
+            "btn":"Add to card"
+        },
+        {
+            "id":3,
+            "img":"../img/mobile4.jpg",
+            "name":"Redmi 9 pro",
+            "price":"$ 99000",
+            "btn":"Add to card"
+        },
+        {
+            "id":4,
+            "img":"../img/mobile2.jpeg",
+            "name":"Redmi 7 pro",
+            "price":"$ 9900",
+            "btn":"Add to card"
+        },
+        {
+            "id":5,
+            "img":"../img/mobile1.webp",
+            "name":"Redmi 12 pro",
+            "price":"$ 99900",
+            "btn":"Add to card"
+        },
+        {
+            "id":6,
+            "img":"../img/mobile4.jpg",
+            "name":"Redmi",
+            "price":"$ 11100",
+            "btn":"Add to card"
+        },
+        {
+            "id":7,
+            "img":"../img/mobile1.webp",
+            "name":"Redmi ",
+            "price":"$ 11100",
+            "btn":"Add to card"
+        },
+        {
+            "id":8,
+            "img":"../img/mobile1.webp",
+            "name":"Redmi 15 pro",
+            "price":"$ 9999",
+            "btn":"Add to card"
+        },
+        {
+            "id":9,
+            "img":"../img/mobile4.jpg",
+            "name":"Redmi 10 pro",
+            "price":"$ 10,000",
+            "btn":"Add to card"
+        }
+    ]
+}
